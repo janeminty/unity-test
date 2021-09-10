@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 1e0821fa8ccdd4370871a8318acc6658
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Boring Sans A Trial
+  fontNames:
+  - Boring Sans A Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d93825c365c3947728f2eaf7d9e55320, type: 3}
+  - {fileID: 12800000, guid: bbf2f9868e7fa4b33b38088d150d13f0, type: 3}
+  - {fileID: 12800000, guid: fb2003277c44344658b84a8bf05973d6, type: 3}
+  - {fileID: 12800000, guid: 37afc628caac04e49a46d5afd3ff00f2, type: 3}
+  - {fileID: 12800000, guid: fc297c99ad2814979906cd0cb6ac4353, type: 3}
+  - {fileID: 12800000, guid: 67e373bdb32c04260a53e0e743ac2d6c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
