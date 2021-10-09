@@ -62,15 +62,17 @@ public class LocomotionController : MonoBehaviour
         {
             leftTeleportRay.gameObject.SetActive(CheckIfActivated(leftTeleportRay));
         }
+
         if (rightTeleportRay)
         {
             rightTeleportRay.gameObject.SetActive(CheckIfActivated(rightTeleportRay));
         }
+
     }
 
     public bool CheckIfActivated(XRController controller)
     {
-        InputHelpers.IsPressed(controller.InputDeivce, teleportActivationButton, out bool isActivated, activationThreshold);
+        InputHelpers.IsPressed(controller.inputDevice, teleportActivationButton, out bool isActivated, activationThreshold);
         return isActivated; 
     }
 }

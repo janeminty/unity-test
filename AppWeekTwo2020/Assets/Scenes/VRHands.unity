@@ -15952,6 +15952,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 085d9ec7bb5e55f48b879d93931f553e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  leftTeleportRay: {fileID: 1705759492}
+  rightTeleportRay: {fileID: 140191240}
+  teleportActivationButton: 2
+  activationThreshold: 0.1
   CameraRig: {fileID: 0}
   CharacterController: {fileID: 0}
   PlayerController: {fileID: 0}
